@@ -4,7 +4,7 @@
 This project generates an animated GIF from a series of images using Python. It was created as part of **Codedex's Python projects**.  
 
 ## Sample GIF
-[GIF](/pythonportfolio/blob/main/python-gif/mrfrog.gif)
+![GIF](https://github.com/haileyrthomas01/pythonportfolio/blob/main/python-gif/mrfrog.gif)
 
 ## Features  
 - Converts multiple images into an animated GIF.  
