@@ -4,7 +4,7 @@
 The Weather App fetches real-time weather data based on user input using the **Weather.com API**. It displays **temperature, conditions, and icons** dynamically.  
 
 ## Sample Photo
-![Photo]()
+![Photo](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/weather-app/weather.png)
 
 ## How to Run  
 1. Clone the repository:  
