@@ -4,7 +4,7 @@
 Planet VR is an interactive web-based **virtual reality (VR) experience** that lets users explore planets. Built with **Three.js and WebGL**, this project provides a visually immersive planetary exploration system.  
 
 ## Demo Video
-![Demo Video](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/planet_vr/video_demo.mp4)
+[Demo Video](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/planet_vr/video_demo.mp4)
 
 ## How to Run  
 1. Clone the repository:  
