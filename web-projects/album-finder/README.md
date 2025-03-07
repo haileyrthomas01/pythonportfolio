@@ -1,4 +1,4 @@
-# Album Finder 🎵  
+# Album Finder 
 
 ## Overview  
 Album Finder is a web application that allows users to search for albums and artists using the **Spotify API**. It provides real-time results and displays album details dynamically. 
