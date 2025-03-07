@@ -1,10 +1,7 @@
-#**********************  ThomasH_CSCI1470_Proj1.py  *********************
+#**********************  Proj4.py  *********************
 #
 # Name: Hailey Thomas
 #
-# Course: CSCI 1470
-#
-# Assignment: Program #4
 #
 # Algorithm
 #   Prompt user for weights of boxing competitors between 51-64kg
@@ -70,9 +67,6 @@ while (weight != 0) and (not weight < 0):
         
     elif (weight > 64):
         tooHigh += 1
-
-
-
 
 
     if (weight == 0):
