@@ -4,7 +4,7 @@
 This **interactive To-Do List** app allows users to **add, edit, check, and delete** tasks dynamically. Unlike a traditional paper list, this project provides a **modern UI** and real-time task management.  
 
 ## Sample Photo
-![Photo]()
+![Photo](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/todo-list-project/todolist.png)
 
 ## How to Run  
 1. Clone the repository:  
