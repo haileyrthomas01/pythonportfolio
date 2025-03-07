@@ -8,6 +8,7 @@ This repository contains a collection of my **Python and Web Development project
 ## **Repository Structure**  
 
 This repository is divided into two main categories:  
+
 📂 **python-projects/** → Python-based applications and scripts  
 📂 **web-projects/** → Web applications using HTML, CSS, JavaScript, and APIs  
 
