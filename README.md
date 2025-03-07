@@ -31,13 +31,13 @@ This repository is divided into two main categories:
 - timegenerator.py # Time-related calculations
 
 📂 web-projects/
-- 📂 album-finder/ # Uses Spotify API to search for albums
-- 📂 planet_vr/ # VR-based interactive planet simulation
-- 📂 pomodoro-app/ # Pomodoro Timer using JavaScript
-- 📂 python-gif/ # Generates GIFs with Python
-- 📂 summer-mixtape-app/ # Generates a mixtape using Spotify API
-- 📂 todo-list-project/ # To-Do List app with JavaScript
-- 📂 weather-app/ # Displays weather using Weather.com API
+- album-finder/ # Uses Spotify API to search for albums
+- planet_vr/ # VR-based interactive planet simulation
+- pomodoro-app/ # Pomodoro Timer using JavaScript
+- python-gif/ # Generates GIFs with Python
+- summer-mixtape-app/ # Generates a mixtape using Spotify API
+- todo-list-project/ # To-Do List app with JavaScript
+- weather-app/ # Displays weather using Weather.com API
 
 ---
 
