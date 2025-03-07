@@ -46,13 +46,3 @@ Additionally, I will be adding more **GUI-based, automation, and API-powered pro
 - **Face Detector (`facedetector.py`)** – Uses **OpenCV** to detect faces in images.  
 - **SQL & Excel Report Generator (`sqlandexcelreportgenerator.py`)** – Automates running SQL queries and exporting reports to Excel.  
 
----
-
-## **How to Run These Projects**  
-
-### **Running Python Scripts**  
-
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/yourusername/python-projects-repo.git
-   cd python-projects-repo
