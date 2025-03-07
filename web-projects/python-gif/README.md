@@ -1,7 +1,7 @@
-# Python GIF Maker  
+# Create a GIF with Python - Codédex Project
 
 ## Overview  
-This project generates an animated GIF from a series of images using Python. It was created as part of **Codedex's Python projects**.  
+This project generates an animated GIF from a series of images using Python. It was created as part of **Codedex's Python projects**. #mrfrogforpresident2024
 
 ## Sample GIF
 ![GIF](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/python-gif/mrfrog.gif)
@@ -12,19 +12,21 @@ This project generates an animated GIF from a series of images using Python. It 
 - Saves the GIF file locally for sharing.  
 
 ## How to Run  
-1. Ensure you have **Python 3** installed.  
-2. Install the required library:  
+1. Ensure you have **Python 3** and **pip** installed.
+2. Clone the repository and install dependencies.
+```bash
+   git clone https://github.com/haileyrthomas01/creategif.git
+   cd creategif
+   pip install -r requirements.txt
+```
+3. Install the required library:  
    ```sh
    pip install pillow
-3. Run the script:
+4. Run the script:
    python gif-maker.py
-4. The generated GIF will be saved in the project folder.
+5. The generated GIF will be saved in the project folder.
 
 
 ## Technologies Used
 - Python
 - Pillow (PIL) library
-
-## Next Steps
-- Add user input options for GIF speed and duration.
-- Implement a graphical user interface (GUI) using Tkinter.
