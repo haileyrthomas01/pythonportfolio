@@ -39,8 +39,6 @@ This repository is divided into two main categories:
 - 📂 todo-list-project/ # To-Do List app with JavaScript
 - 📂 weather-app/ # Displays weather using Weather.com API
 
-- README.md # This file
-
 ---
 
 ## **How to Run the Projects**  
