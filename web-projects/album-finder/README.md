@@ -3,6 +3,11 @@
 ## Overview  
 Album Finder is a web application that allows users to search for albums and artists using the **Spotify API**. It provides real-time results and displays album details dynamically. 
 
+
+## Repository
+I also have another [repository](https://github.com/haileyrthomas01/album-finder-spotify) that I created for this project to view more of the files that I accessed.
+
+
 ## Sample Photo
 ![Photo](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/album-finder/albumfinder.png)
 
