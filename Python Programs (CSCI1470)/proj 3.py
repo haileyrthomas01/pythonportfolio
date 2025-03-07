@@ -1,10 +1,6 @@
-#**********************  ThomasH_CSCI1470_Proj1.py  *********************
+#**********************  Proj1.py  *********************
 #
 # Name: Hailey Thomas
-#
-# Course: CSCI 1470
-#
-# Assignment: Program #3
 #
 # Algorithm
 #   Gives exact change for an item purchased with $5 or less. Use a float data type to represent money
