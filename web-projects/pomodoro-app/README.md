@@ -3,8 +3,8 @@
 ## Overview  
 A simple **Pomodoro Timer** that helps users manage their time by alternating work and break sessions. This project was created as part of **Codedex's Python projects**.  
 
-## Screenshot  
-![Pomodoro Timer Screenshot](https://github.com/haileyrthomas01/pythonportfolio/blob/main/pomodoro-app/pomodoro.png)  
+## Sample Photo  
+![Pomodoro Timer Screenshot](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/pomodoro-app/pomodoro.png)  
 
 ## Features  
 - Work and break interval timer.  
