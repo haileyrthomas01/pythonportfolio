@@ -1,0 +1,3 @@
+right-click on codedex folder to run terminal
+npm run dev
+http://localhost:5173/
