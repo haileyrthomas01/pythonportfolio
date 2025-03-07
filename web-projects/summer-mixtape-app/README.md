@@ -4,7 +4,7 @@
 The Summer Mixtape App allows users to generate playlists based on a mood or theme using the **Spotify API**. Inspired by **CodeAcademy's summer project**, this web app connects with Spotify to curate songs.  
 
 ## Sample Photo
-[Photo](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/summer-mixtape-app/summix.png)
+![Photo](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/summer-mixtape-app/summix.png)
 
 ## How to Run  
 1. Clone the repository:  
