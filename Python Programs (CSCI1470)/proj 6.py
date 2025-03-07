@@ -1,21 +1,9 @@
-###############################     ThomasH_CSCI1470_Proj6.py       ###################################
-#  Name: Hailey Thomas
-#
-#  Course: CSCI 1470
-#
-#  Assignment: Program 6
+###############################     Proj6.py       ###################################
 #  
 #  Algorithm:
 #    Write a function named convert( ) that takes any string of alphanumeric
 #    characters and returns a string with all alphabetic characters in the argument
 #    converted into their numeric equivalent, using the above mapping.
-#    Write a Python program that asks the user to enter a 10-character alphanumeric
-#    telephone number in the form of XXX-XXX-XXXX, then calls convert( ) 
-#    to translate the alphanumeric phone number into its equivalent numeric phone number
-#    and display the result. 
-#    The application should allow the user to continue translating phone numbers
-#    until she/he decides to stop.
-#    Use meaningful variable names. Prepend a preface.
 ################################################################################
 
 
