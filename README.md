@@ -12,6 +12,7 @@ This repository is divided into two main categories:
 📂 **web-projects/** → Web applications using HTML, CSS, JavaScript, and APIs  
 
 📦 python-web-portfolio/
+
 📂 python-projects/
 - bday_messages.py # Birthday message generator
 - calproj.py # Calendar-based project
