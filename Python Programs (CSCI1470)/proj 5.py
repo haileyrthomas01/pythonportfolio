@@ -1,6 +1,5 @@
 ###############################     Proj5.py       ###################################
-#  Name: Hailey Thomas
-#  
+
 #  Algorithm:
 #    Design and write a Python program that gives and grades a math quiz.
 #    The quiz will give 10 random problems using a variety of the
