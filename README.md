@@ -15,29 +15,29 @@ This repository is divided into two main categories:
 📂 python-projects/
 - bday_messages.py # Birthday message generator
 - calproj.py # Calendar-based project
-      - casino.py # Casino-style game
-      - dice.py # Dice rolling simulation
-      - facedetector.py # Detects faces in images
-      - hangmangame.py # Classic Hangman game
-      - myclock.py # Digital clock using Tkinter
-      - numsorter.py # Sorts a list of numbers
-      - passwordchecker.py # Checks password strength
-      - passwordgenerator.py # Generates random passwords
-      - ponggame.py # Classic Pong game
-      - rockpaperscissors.py # Rock, Paper, Scissors game
-      - roman_numeral.py # Converts numbers to Roman numerals
-      - rps.py # Another Rock, Paper, Scissors version
-      - tictactoe.py # Two-player Tic-Tac-Toe game
-      - timegenerator.py # Time-related calculations
+- casino.py # Casino-style game
+- dice.py # Dice rolling simulation
+- facedetector.py # Detects faces in images
+- hangmangame.py # Classic Hangman game
+- myclock.py # Digital clock using Tkinter
+- numsorter.py # Sorts a list of numbers
+- passwordchecker.py # Checks password strength
+- passwordgenerator.py # Generates random passwords
+- ponggame.py # Classic Pong game
+- rockpaperscissors.py # Rock, Paper, Scissors game
+- roman_numeral.py # Converts numbers to Roman numerals
+- rps.py # Another Rock, Paper, Scissors version
+- tictactoe.py # Two-player Tic-Tac-Toe game
+- timegenerator.py # Time-related calculations
 
 📂 web-projects/
-      - 📂 album-finder/ # Uses Spotify API to search for albums
-      - 📂 planet_vr/ # VR-based interactive planet simulation
-      - 📂 pomodoro-app/ # Pomodoro Timer using JavaScript
-      - 📂 python-gif/ # Generates GIFs with Python
-      - 📂 summer-mixtape-app/ # Generates a mixtape using Spotify API
-      - 📂 todo-list-project/ # To-Do List app with JavaScript
-      - 📂 weather-app/ # Displays weather using Weather.com API
+- 📂 album-finder/ # Uses Spotify API to search for albums
+- 📂 planet_vr/ # VR-based interactive planet simulation
+- 📂 pomodoro-app/ # Pomodoro Timer using JavaScript
+- 📂 python-gif/ # Generates GIFs with Python
+- 📂 summer-mixtape-app/ # Generates a mixtape using Spotify API
+- 📂 todo-list-project/ # To-Do List app with JavaScript
+- 📂 weather-app/ # Displays weather using Weather.com API
 
 - README.md # This file
 
