@@ -1,4 +1,4 @@
-# To-Do List ✅  
+# To-Do List 
 
 ## Overview  
 This **interactive To-Do List** app allows users to **add, edit, check, and delete** tasks dynamically. Unlike a traditional paper list, this project provides a **modern UI** and real-time task management.  
