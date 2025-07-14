@@ -17,13 +17,12 @@ Currently, this repository includes the following Python programs:
 - **numsorter.py** – A number sorting application.  
 - **passwordchecker.py** – A password strength checker.  
 - **passwordgenerator.py** – Generates a **random password** with a secure combination of characters.  
-- **ponggame.py** – A simple **Pong game** built with Tkinter.  
+- **ponggame.py** – A simple **Pong game** built with Tkinter.
+- **qr_maker.py** - A QR maker that creates and saves QR codes using an entered url. 
 - **rockpaperscissors.py** – A **Rock, Paper, Scissors** game where users play against the computer.  
 - **sqlandexcelreportgenerator.py** – A script that automates **SQL queries and Excel report generation**.  
 - **tictactoe.py** – A **two-player Tic Tac Toe game**.  
 - **timegenerator.py** – A time-based utility application.  
-
-Additionally, I will be adding more **GUI-based, automation, and API-powered projects** to this repository.  
 
 ---
 
@@ -39,8 +38,9 @@ Additionally, I will be adding more **GUI-based, automation, and API-powered pro
 ### **2. Python Utilities**  
 - **Password Checker (`passwordchecker.py`)** – Checks password strength and security.  
 - **Password Generator (`passwordgenerator.py`)** – Generates **random secure passwords**.  
-- **Number Sorter (`numsorter.py`)** – Sorts a list of numbers in ascending order.  
-- **Time Generator (`timegenerator.py`)** – A tool that generates formatted time values.  
+- **Number Sorter (`numsorter.py`)** – Sorts a list of numbers in ascending order.
+- **QR Maker (`qr_maker.py`)** – Generates QR codes based on entered urls.  
+- **Time Generator (`timegenerator.py`)** – A tool that generates formatted time values.
 
 ### **3. Data & Automation Projects**  
 - **Face Detector (`facedetector.py`)** – Uses **OpenCV** to detect faces in images.  
