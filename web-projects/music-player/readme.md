@@ -5,7 +5,7 @@ This music MP3 player is an interactive web-based **MP3 player experience** that
 
 ## Demo Content
 ![Demo GIF](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/music-player/music-player-gif.gif)
-![Demo Video](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/music-player/music-player-demo.mp4)
+[Demo Video](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/music-player/music-player-demo.mp4)
 
 ## Figma Mockup
 ![Figma Mockup](https://github.com/haileyrthomas01/pythonportfolio/blob/main/web-projects/music-player/figma-mockup.png)
