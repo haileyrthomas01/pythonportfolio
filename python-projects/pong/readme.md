@@ -1,7 +1,7 @@
 # Pong Game
 
 ## Overview  
-This project is a simple implementation of the classic Pong game using the Pygame library in Python. It was created as part of [**Codedex's Python projects**]!(https://www.codedex.io/projects/build-pong-with-pygame)
+This project is a simple implementation of the classic Pong game using the Pygame library in Python. It was created as part of [**Codedex's Python projects**](https://www.codedex.io/projects/build-pong-with-pygame)
 
 ## Demo GIF
 ![GIF](https://github.com/haileyrthomas01/python-and-web-project-portfolio/blob/main/python-projects/pong/pong-gif.gif)
