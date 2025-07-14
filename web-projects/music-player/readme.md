@@ -1,4 +1,4 @@
-# Music Player
+# MP3 Music Player
 
 ## Overview  
 This music MP3 player is an interactive web-based **MP3 player experience** that lets users listen to songs. Built with **JavaScript, HTML, and CSS**, this project allows user to experience listening to music with a nostalgic feel to MP3s and current interface similar to Apple Music.  
