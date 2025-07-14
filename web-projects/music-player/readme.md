@@ -4,10 +4,10 @@
 This music MP3 player is an interactive web-based **MP3 player experience** that lets users listen to songs. Built with **JavaScript, HTML, and CSS**, this project allows user to experience listening to music with a nostalgic feel to MP3s and current interface similar to Apple Music.  
 
 ## Demo Content
-![Interface Pic](web-projects/music-player/music-player.png)
-![Figma Mockup](web-projects/music-player/figma-mockup.png)
-![Demo GIF](web-projects/music-player/music-player-gif.gif)
-![Demo Video](web-projects/music-player/music-player-demo.mp4)
+![Interface Pic](https://github.com/haileyrthomas01/python-and-web-project-portfolio/edit/main/web-projects/music-player/music-player.png)
+![Figma Mockup](https://github.com/haileyrthomas01/python-and-web-project-portfolio/edit/main/web-projects/music-player/figma-mockup.png)
+![Demo GIF](https://github.com/haileyrthomas01/python-and-web-project-portfolio/edit/main/web-projects/music-player/music-player-gif.gif)
+![Demo Video](https://github.com/haileyrthomas01/python-and-web-project-portfolio/edit/main/web-projects/music-player/music-player-demo.mp4)
 
 ## How to Run  
 1. Clone the repository:  
