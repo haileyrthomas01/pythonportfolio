@@ -24,6 +24,7 @@ This repository is divided into two main categories:
 - passwordchecker.py # Checks password strength
 - passwordgenerator.py # Generates random passwords
 - ponggame.py # Classic Pong game
+- qr_maker.py # QR Maker Using URL
 - rockpaperscissors.py # Rock, Paper, Scissors game
 - roman_numeral.py # Converts numbers to Roman numerals
 - rps.py # Another Rock, Paper, Scissors version
@@ -32,6 +33,7 @@ This repository is divided into two main categories:
 
 📂 web-projects/
 - album-finder/ # Uses Spotify API to search for albums
+- music-player/ # Uses HTML, CSS, and JavaScript to play songs
 - planet_vr/ # VR-based interactive planet simulation
 - pomodoro-app/ # Pomodoro Timer using JavaScript
 - python-gif/ # Generates GIFs with Python
@@ -65,9 +67,9 @@ This repository is divided into two main categories:
 ## Project Descriptions
 ### Python Projects
 - Games & GUI Apps → Hangman, Pong, Rock Paper Scissors, Tic-Tac-Toe
-- Automation & Utilities → Password Generator, Time Calculator, Face Detector
+- Automation & Utilities → Password Generator, Time Calculator, Face Detector, QR Maker
 - Mathematical & Data Processing → Roman Numeral Converter, Number Sorter
 ### Web Projects
 - API-Based Apps → Album Finder (Spotify API), Weather App (Weather.com API)
 - Productivity Tools → Pomodoro Timer, To-Do List
-- Interactive Visuals → Python GIF Maker, Planet VR Simulation
+- Interactive Visuals → Python GIF Maker, Planet VR Simulation, MP3 Music Player
